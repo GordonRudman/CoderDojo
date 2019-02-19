@@ -1,0 +1,91 @@
+//We Wish You A Merry Christmas
+
+// notes in the melody: 
+int melody[] = {
+   NG4,NC5,NC5,ND5,NC5,NB4,NA4,NA4,
+   NA4,ND5,ND5,NE5,ND5,NC5,NB4,NG4,
+   NG4,NE5,NE5,NF5,NE5,ND5,NC5,NA5,NG4,NG4,NA4,ND5,NB4,NC5,
+   NG4,NC5,NC5,ND5,NC5,NB4,NA4,NA4,
+   NA4,ND5,ND5,NE5,ND5,NC5,NB4,NG4,
+   NG4,NE5,NE5,NF5,NE5,ND5,NC5,NA5,NG4,NG4,NA4,ND5,NB4,NC5,
+   NG4,NC5,NC5,NC5,NB4,NB4,NC5,NB4,NA4,NG4,
+   ND5,NE5,ND5,ND5,NC5,NC5,NG5,NG4,NG4,NG4,NA4,ND5,NB4,NC5 
+   };
+
+// note durations: 4 = quarter note, 8 = eighth note, etc.: 
+int noteDurations[] = {
+                        4,4,8,8,8,8,4,4,
+                        4,4,8,8,8,8,4,4,
+                        4,4,8,8,8,8,4,4,8,8,4,4,4,2,
+                        4,4,8,8,8,8,4,4,
+                        4,4,8,8,8,8,4,4,
+                        4,4,8,8,8,8,4,4,8,8,4,4,4,2,
+                        4,4,4,4,2,4,4,4,4,2,
+                        4,4,8,8,8,8,4,4,8,8,4,4,4,2,   
+                        };
+                        
+                        
+                     
+                     
+                        
+                        
+                        
+//Jingle Bells                        
+int melody[] = {
+                NG4,NE5,ND5,NC5,NG4,NG4,NE5,ND5,NC5,NA4,
+                NA4,NF5,NE5,ND5,NB4,NG5,NG5,NF5,ND5,NE5,
+                NG4,NE5,ND5,NC5,NG4,NG4,NE5,ND5,NC5,NA4,
+                NA4,NF5,NE5,ND5,NG5,NG5,NG5,NG5,NG5,NA5,NG5,NF5,ND5,NC5,NG5,
+                NE5,NE5,NE5,NE5,NE5,NE5,NE5,NG5,NC5,ND5,NE5,
+                NF5,NF5,NF5,NF5,NF5,NF5,NE5,NE5,NE5,NE5,NE5,ND5,ND5,NE5,ND5,NG5,
+                NE5,NE5,NE5,NE5,NE5,NE5,NE5,NG5,NC5,ND5,NE5,
+                NF5,NF5,NF5,NF5,NF5,NF5,NE5,NE5,NE5,NE5,NG5,NG5,NF5,ND5,NC5,
+               };
+
+
+int noteDurations[] = {
+                       8,8,8,8,2,8,8,8,8,2, // 10
+                       8,8,8,8,2,8,8,8,8,2, // 10
+                       8,8,8,8,2,8,8,8,8,2, // 10
+                       8,8,8,8,8,8,8,16,16,8,8,8,8,4,4, // 15
+                       8,8,4,8,8,4,8,8,8,8,2, // 11
+                       8,8,8,16,16,8,8,8,16,16,8,8,8,8,4,4, // 16
+                       8,8,4,8,8,4,8,8,8,8,2, // 11
+                       8,8,8,16,16,8,8,8,16,16,8,8,8,8,2, // 15
+                       };
+                        
+                        
+                        
+                        
+                        
+ //Deck the Hall                   
+ int melody[] = {
+ NC5,NB4,NA4,NG4,NF4,NG4,NA4,NF4,NG4,NA4,NB4,NG4,NA4,NG4,NF4,NE4,NF4,
+ NC5,NB4,NA4,NG4,NF4,NG4,NA4,NF4,NG4,NA4,NB4,NG4,NA4,NG4,NF4,NE4,NF4,
+ NG4,NA4,NB4,NG4,NA4,NB4,NC5,NG4,NA4,NB4,NC5,ND5,NE5,NF5,NE5,ND5,NC5,
+ NC5,NB4,NA4,NG4,NF4,NG4,NA4,NF4,ND5,ND5,ND5,ND5,NC5,NB4,NA4,NG4,NF4};
+
+int noteDurations[] = {
+  4,8,4,4,4,4,4,4,8,8,8,8,4,8,4,4,2,
+  4,8,4,4,4,4,4,4,8,8,8,8,4,8,4,4,2,
+  4,8,4,4,4,8,4,4,8,8,4,8,8,4,4,4,2,
+  4,8,4,4,4,4,4,4,8,8,8,8,4,8,4,4,2
+  };
+  
+  
+  
+  
+  
+  
+//Happy birthday
+int melody[] = {NC4,NC4,ND4,NC4,NF4,NE4,
+                NC4,NC4,ND4,NC4,NG4,NF4,
+                NC4,NC4,NC5,NA4,NF4,NE4,ND4,
+                NAS4,NAS4,NA4,NF4,NG4,NF4   
+                 };
+
+int noteDurations[] = {6,12,4,4,4,2,
+                       6,12,4,4,4,2,
+                       6,12,4,4,4,4,2,
+                       6,12,4,4,4,2,     
+                       };
